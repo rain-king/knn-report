@@ -3,6 +3,7 @@ title: "Implementación y Análisis de k-Nearest Neighbors en Imágenes Multiban
 lang: es
 author:
 	- Gustavo Murillo Vega
+date: "8 de Enero 2026"
 geometry: "margin=0.8in"
 fontsize: 11pt
 code-block-font-size: 8pt
