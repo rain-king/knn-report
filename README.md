@@ -22,3 +22,6 @@ pandoc -i reporte.md --filter pandoc-include --lua-filter=subfigs.lua -s -o repo
 
 ## Posible adición
 Estimar un intervalo de confianza por métodos estadísticos.
+
+## Nota
+`subfigs.lua` es tomado de la repo [rnwst/pandoc-subfigs](https://github.com/rnwst/pandoc-subfigs/).
