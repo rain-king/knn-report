@@ -1,7 +1,7 @@
 # Entrenamiento y validación de k-NN en dataset pequeño
 
 ## Descripción del respositorio
-El objetivo es el reporte en sí, en él se comenta sobre el código fuente de los scripts de Python. A continuación describo la información mínima para generar el reporte.
+El objetivo es el reporte en sí, en él se comenta sobre el código fuente de los scripts de Python. A continuación describo la información mínima para generar el reporte, el cual debería verse como `reporte_precompilado.pdf`.
 
 ## Setup
 Se debe de tener una instalación de python3 con pip.
